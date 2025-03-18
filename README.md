@@ -29,7 +29,7 @@
 
 ## Github Pages
 
-[Page](https://nodejs.org/en/download/)
+[Amigo Secreto](https://walvesdev.github.io/challenge-amigo-secreto_pt/)
 
 ## Licença 
 
